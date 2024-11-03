@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryaSPS/Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suryaSPS/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryaSPS/Leetcode/tree/master/0002-add-two-numbers) |
 | [0670-maximum-swap](https://github.com/suryaSPS/Leetcode/tree/master/0670-maximum-swap) |
 ## Backtracking
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/suryaSPS/Leetcode/tree/master/0812-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/suryaSPS/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
