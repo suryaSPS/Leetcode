@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suryaSPS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryaSPS/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/suryaSPS/Leetcode/tree/master/0036-valid-sudoku) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suryaSPS/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/suryaSPS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/suryaSPS/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/suryaSPS/Leetcode/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryaSPS/Leetcode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suryaSPS/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0670-maximum-swap](https://github.com/suryaSPS/Leetcode/tree/master/0670-maximum-swap) |
 ## Backtracking
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryaSPS/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suryaSPS/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/suryaSPS/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
