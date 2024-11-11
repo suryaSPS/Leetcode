@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/suryaSPS/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suryaSPS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suryaSPS/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suryaSPS/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suryaSPS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/suryaSPS/Leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
+| [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/suryaSPS/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suryaSPS/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suryaSPS/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0670-maximum-swap](https://github.com/suryaSPS/Leetcode/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryaSPS/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suryaSPS/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
