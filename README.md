@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suryaSPS/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/suryaSPS/Leetcode/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/suryaSPS/Leetcode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suryaSPS/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
 | [2580-circular-sentence](https://github.com/suryaSPS/Leetcode/tree/master/2580-circular-sentence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/suryaSPS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/suryaSPS/Leetcode/tree/master/0670-maximum-swap) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
 | [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/suryaSPS/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suryaSPS/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suryaSPS/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/suryaSPS/Leetcode/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
