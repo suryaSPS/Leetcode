@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/suryaSPS/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suryaSPS/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suryaSPS/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suryaSPS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suryaSPS/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suryaSPS/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suryaSPS/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/suryaSPS/Leetcode/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suryaSPS/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suryaSPS/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/suryaSPS/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suryaSPS/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
 |  |
 | ------- |
