@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suryaSPS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryaSPS/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/suryaSPS/Leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/suryaSPS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suryaSPS/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/suryaSPS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/suryaSPS/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/suryaSPS/Leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/suryaSPS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suryaSPS/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/suryaSPS/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryaSPS/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/suryaSPS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suryaSPS/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/suryaSPS/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
