@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/suryaSPS/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/suryaSPS/Leetcode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/suryaSPS/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suryaSPS/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/suryaSPS/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/suryaSPS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryaSPS/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/suryaSPS/Leetcode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/suryaSPS/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/suryaSPS/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suryaSPS/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/suryaSPS/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suryaSPS/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suryaSPS/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/suryaSPS/Leetcode/tree/master/1755-defuse-the-bomb) |
