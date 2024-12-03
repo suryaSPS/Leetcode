@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/suryaSPS/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/suryaSPS/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suryaSPS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2232-adding-spaces-to-a-string](https://github.com/suryaSPS/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/suryaSPS/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suryaSPS/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/suryaSPS/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/suryaSPS/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suryaSPS/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suryaSPS/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/suryaSPS/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/suryaSPS/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/suryaSPS/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suryaSPS/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suryaSPS/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/suryaSPS/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/suryaSPS/Leetcode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suryaSPS/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/suryaSPS/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/suryaSPS/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/suryaSPS/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
