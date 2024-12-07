@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suryaSPS/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/suryaSPS/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/suryaSPS/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/suryaSPS/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/suryaSPS/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/suryaSPS/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suryaSPS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/suryaSPS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suryaSPS/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suryaSPS/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/suryaSPS/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/suryaSPS/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
