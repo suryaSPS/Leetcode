@@ -240,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/suryaSPS/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/suryaSPS/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/suryaSPS/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
