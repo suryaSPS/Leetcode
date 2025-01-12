@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/suryaSPS/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suryaSPS/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/suryaSPS/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/suryaSPS/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/suryaSPS/Leetcode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suryaSPS/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
 | [2089-maximum-matrix-sum](https://github.com/suryaSPS/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/suryaSPS/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2716-prime-subtraction-operation](https://github.com/suryaSPS/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/suryaSPS/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/suryaSPS/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suryaSPS/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/suryaSPS/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
