@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/suryaSPS/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/suryaSPS/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/suryaSPS/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/suryaSPS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/suryaSPS/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/suryaSPS/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
