@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suryaSPS/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/suryaSPS/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/suryaSPS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/suryaSPS/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suryaSPS/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suryaSPS/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suryaSPS/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suryaSPS/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suryaSPS/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/suryaSPS/Leetcode/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/suryaSPS/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/suryaSPS/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suryaSPS/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/suryaSPS/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaSPS/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suryaSPS/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/suryaSPS/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suryaSPS/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/suryaSPS/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suryaSPS/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
